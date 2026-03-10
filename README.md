@@ -13,6 +13,7 @@ This project contains the source code of Minecraft Legacy Console Edition v1.6.0
 - **macOS / Linux**: The Windows nightly build may run through Wine or CrossOver based on community reports, but this is unofficial and not currently tested by the maintainers
 
 ## Features
+- When users switch to KBM the icons of xbox controller go away untill the user switches back to controller.
 - Fixed FOV sprinting bug.
 - Working on PS4 native support
 - Added Hard core game mode.
